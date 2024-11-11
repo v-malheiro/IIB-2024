@@ -1,14 +1,31 @@
-# IIB-2024
+# 5910230 - Introdução à Instrumentação Biomédica (IIB-2024)
+Este repositório contém os projetos desenvolvidos em grupo na disciplina "5910230 - Introdução à Instrumentação Biomédica" no ano de 2024, oferecida como parte do currículo do curso de [Física Médica](https://www.ffclrp.usp.br/graduacoes/cursos.php?g=2) da Universidade de São Paulo - Campus Ribeirão Preto. 
 
-Introdução à Instrumentação Biomédica (2023)
-
-## Projetos de Instrumentação Biomédica
-Este repositório contém os projetos desenvolvidos na disciplina Introdução à Instrumentação Biomédica, oferecida como parte do currículo do curso de [Física Médica](https://www.ffclrp.usp.br/graduacoes/cursos.php?g=2)
-da Universidade de São Paulo. Os projetos abrangem conceitos essenciais relacionados ao funcionamento de equipamentos biomédicos, proporcionando aos alunos a oportunidade de aplicar conhecimentos de eletrônica 
-e instrumentação à biomedicina.
+## Sobre os Projetos
+A proposta de projetos para a disciplina visa à imersão dos alunos aos conceitos fundamentais relacionados ao funcionamento de equipamentos biomédicos, garantindo a oportunidade de aplicarem conhecimentos de eletrônica e instrumentação à area da biomedicina.
 
 ## Instruções para Navegação no Repositório
-Cada projeto está organizado em pastas individuais. Documentação adicional, esquemas elétricos, código-fonte e resultados podem ser encontrados dentro de cada diretório específico do projeto.
-Sinta-se à vontade para explorar os projetos e utilizar o conteúdo deste repositório como recurso para aprendizado e referência. Se tiver alguma dúvida ou sugestão, entre em contato com os docentes responsáveis.
+Cada projeto está organizado em pastas individuais, identificados pela letra correspondente a cada grupo. Documentação adicional, esquemas elétricos, código-fonte e resultados podem ser encontrados dentro de cada diretório específico do projeto.
+Sinta-se à vontade para explorar os projetos e utilizar o conteúdo deste repositório como recurso para aprendizado e referência.
 
-Aproveite a jornada na instrumentação biomédica!
+```shell
+IIB-2024
+ ┣ Projetos
+ ┃ ┣ Grupo A
+ ┃ ┣ Grupo B
+ ┃ ┣ Grupo C
+ ┃ ┣ Grupo D
+ ┃ ┣ Grupo E
+ ┃ ┣ Grupo F
+ ┃ ┗ Grupo G
+ ┗ README.md
+```
+
+## Dúvidas e Sugestões
+Caso haja qualquer dúvida e/ou sugestão de melhoria, não hesite em entrar em contato com o(s) monitor(es), técnico ou professor responsável!
+
+E-mails:
+
+victorhugomalheiro@usp.br / 
+fertorrieri@usp.br / 
+adilton@usp.br
