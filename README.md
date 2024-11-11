@@ -1,4 +1,4 @@
-# 5910230 - Introdução à Instrumentação Biomédica (IIB-2024)
+# 5910230 - Introdução à Instrumentação Biomédica <br> (IIB-2024)
 Este repositório contém os projetos desenvolvidos em grupo na disciplina "5910230 - Introdução à Instrumentação Biomédica" no ano de 2024, oferecida como parte do currículo do curso de [Física Médica](https://www.ffclrp.usp.br/graduacoes/cursos.php?g=2) da Universidade de São Paulo - Campus Ribeirão Preto. 
 
 ## Sobre os Projetos
@@ -26,6 +26,4 @@ Caso haja qualquer dúvida e/ou sugestão de melhoria, não hesite em entrar em 
 
 E-mails:
 
-victorhugomalheiro@usp.br / 
-fertorrieri@usp.br / 
-adilton@usp.br
+victorhugomalheiro@usp.br <br> fertorrieri@usp.br <br> adilton@usp.br
